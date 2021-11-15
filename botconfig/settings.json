@@ -3,10 +3,10 @@
     "anti-crash-logs": true,
     "ratelimit-logs": true,
 
-    "debug-discordjs-logs": false,
-    "show-serverjoins": false,
-    "show_loaded_commands": false,
-    "show_loaded_events": false,
+    "debug-discordjs-logs": true,
+    "show-serverjoins": true,
+    "show_loaded_commands": true,
+    "show_loaded_events": true,
 
     "auto-resume-save-cooldown": 2500,
     "auto-resume-delay": 500,
