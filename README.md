@@ -23,6 +23,8 @@
 
 ✓ Suport 10 music sources + Stage & Thread Channels
 
+✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
+
 <br/>
 
 ***
@@ -71,7 +73,7 @@ Well then skip step **` 5. `**
 "clientsettings": {
       "nodes": [
          {
-            "host": "lavalinknl.ml",
+            "host": "lavalink.eu",
             "port": 2333,
             "password": "Raccoon"
          }

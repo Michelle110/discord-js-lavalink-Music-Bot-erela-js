@@ -554,7 +554,7 @@
                 "variable36": "`\\u200b`"
             },
             "setup-language": {
-                "variable1": "`***Select what you need in the `Selection` down Below!***`",
+                "variable1": "`***Select what you need in the \\`Selection\\` down Below!***`",
                 "variable2": "`<:no:833101993668771842> ABGEBROCHEN the Setup!`",
                 "variable3": "`Select your new Language`",
                 "variable4": "`Current language is: **${languages[ls]}**\\n\\n***Note that this System is not finished yet!***\\n**Only partly working Languages are:**\\n> \\`English\\`, \\`India (Hindi)\\``",
@@ -880,7 +880,7 @@
             "title": "❌ **Nicht im Bot-Chat!**",
             "description": "**Es gibt einen Bot-Chat-Setup in diesem Server, bitte nutze den Befehl in einem dieser Channel:**"
         },
-        "ping": "${emoji.msg.SUCCESS} **Um alle Befehle zu sehen, nutze: `{prefix}help`!**",
+        "ping": "👍 **Um alle Befehle zu sehen, nutze: `{prefix}help`!**",
         "unknowncmd": {
             "title": "❌ **Unkown Command, try: `{prefix}help`!**",
             "description": "**The prefix for this Guild is: `{prefix}`**\n\n*You can also **ping** me, instead of using a Prefix!*\n\n**To see all Commands Type `{prefix}help [Cat/Cmd]`!**\n\n**To see all available setups type `{prefix}setup`!**"
