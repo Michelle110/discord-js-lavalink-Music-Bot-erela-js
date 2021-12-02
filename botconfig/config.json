@@ -1,8 +1,8 @@
 {
-   "token": "Bot Token",
+   "token": "ODY1NTI1NjEzNTUxOTQzNzUx.YPFRig.Xc5eSgmKfM-4MLh8TIf4PtgwToM",
    "prefix": "//",
    "ownerIDS": [
-      "779564472255774731"
+      "855833046947332096"
    ],
    
    "status": {
@@ -14,7 +14,7 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "lavalinknl.ml",
+            "host": "lavalink.eu",
             "port": 2333,
             "password": "Raccoon"
          }
@@ -22,7 +22,7 @@
    },
 
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "c8dc63649f264f61a26b0155ee839b78",
+      "clientSecret": "74b6c7ee54244d049ac17700ed39d9af"
    }
 }
